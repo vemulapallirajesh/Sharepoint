@@ -1,0 +1,1 @@
+All sharepoint Framework projects
